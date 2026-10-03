@@ -1,95 +1,548 @@
 <div align="center">
 
-# 👋 Hi, I'm Siva Keerthi P
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:111827,100:0F172A&text=SIVA%20KEERTHI&fontColor=38BDF8&fontSize=48&fontAlignY=38&desc=Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20QA%20%7C%20Cybersecurity&descAlignY=60&descSize=16" width="100%"/>
 
-### 💻 Developer | 📊 Data Analyst | ⚙️ Data Engineer | 🧪 QA & Testing | 🔐 Cybersecurity Explorer
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+with+Code+%F0%9F%92%BB;Turning+Data+into+Insights+%F0%9F%93%8A;Exploring+Data+Engineering+%E2%9A%99%EF%B8%8F;Testing+Systems+with+Precision+%F0%9F%A7%AA;Learning+Cybersecurity+%F0%9F%94%90;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems.;Turning+raw+data+into+useful+insights.;Exploring+data+engineering+and+backend+systems.;Testing+software+with+a+quality-first+mindset.;Learning+cybersecurity+and+ethical+hacking.;Learn+%E2%80%A2+Build+%E2%80%A2+Test+%E2%80%A2+Analyze+%E2%80%A2+Improve" alt="Typing SVG"/>
+
+<br>
+
+<a href="https://github.com/Siva427-art">
+<img src="https://img.shields.io/badge/GitHub-Siva427--art-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Siva427-art&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 WHO AM I?
 
-I'm **Siva Keerthi**, an aspiring technology professional exploring multiple areas of software and data.
+<table>
+<tr>
+<td width="60%">
 
-- 💻 Building applications and solving problems with code
-- 📊 Analyzing data and creating meaningful visualizations
-- ⚙️ Exploring Data Engineering and backend systems
-- 🧪 Interested in software testing and quality assurance
-- 🔐 Exploring cybersecurity and ethical hacking concepts
-- 🚀 Building real-world projects to improve my skills
-- 🧠 Interested in analytical and logical problem solving
-- 📚 Continuously learning new technologies
+### 👋 Hi, I'm Siva Keerthi
 
----
+I'm a technology enthusiast building my skills across **software development, data, testing, and cybersecurity**.
 
-## 🛠️ Tech Stack
+I enjoy understanding how systems work from different perspectives — from writing the application, to working with the database, analyzing the data, testing the system, and learning how it can be secured.
 
-### 💻 Programming & Development
+```text
+💻 Build
+   ↓
+📊 Analyze
+   ↓
+⚙️ Engineer
+   ↓
+🧪 Test
+   ↓
+🔐 Secure
+   ↓
+🚀 Improve
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,nodejs" />
-</p>
+</td>
 
-### ⚙️ Backend & Databases
+<td width="40%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,postgresql,mysql,git,github,docker" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
-### 📊 Data & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Power BI • Excel • SQL • R • Tableau • Data Visualization • Data Analysis**
-
-### ☁️ Cloud & Tools
-
-**Azure • Git • GitHub • VS Code • Postman • Swagger**
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ MY TECHNICAL WORLD
 
-### 🧠 TaskTime — Smart Task Management System
+<table>
+<tr>
+<td align="center" width="20%">
 
-A task management platform designed with authentication, role-based access, task tracking and reminder functionality.
+### 💻
+### DEVELOPMENT
 
-**Tech:** React • JavaScript • Tailwind CSS • ASP.NET Core Web API • EF Core • PostgreSQL • JWT
+React  
+JavaScript  
+HTML  
+CSS  
+Python  
+Java  
+ASP.NET Core
+
+</td>
+
+<td align="center" width="20%">
+
+### 📊
+### DATA
+
+Python  
+SQL  
+Power BI  
+Excel  
+R  
+Tableau  
+Data Visualization
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️
+### ENGINEERING
+
+PostgreSQL  
+EF Core  
+REST APIs  
+ETL Concepts  
+Azure  
+Git  
+GitHub
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧪
+### TESTING
+
+API Testing  
+Debugging  
+Test Cases  
+Functional Testing  
+Authentication Testing  
+Quality Assurance
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔐
+### SECURITY
+
+Networking  
+Web Security  
+Security Testing  
+Linux  
+Vulnerability Awareness  
+Ethical Hacking
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎯 AI-Powered Career Guidance Platform
+## 🛠️ TECHNOLOGIES
 
-An AI-powered career guidance ecosystem designed to help users explore career paths and opportunities.
+<div align="center">
 
-**Tech:** React.js • Django REST Framework • PostgreSQL • Google Gemini API
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" />
+
+<br><br>
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,dotnet,nodejs" />
+
+<br><br>
+
+### Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,azure" />
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+
+</div>
 
 ---
+
+## 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ TaskTime
+
+**Smart Task Management System**
+
+A full-stack task management platform with authentication, role-based authorization, task tracking and automated reminders.
+
+**Stack**
+
+`React` `Tailwind CSS`  
+`ASP.NET Core` `EF Core`  
+`PostgreSQL` `JWT`
+
+</td>
+
+<td width="50%">
+
+### 🧠 AI Career Guidance
+
+**AI-Powered Career Guidance Ecosystem**
+
+A platform designed to help users explore career opportunities using AI-powered recommendations.
+
+**Stack**
+
+`React.js` `Django REST`  
+`PostgreSQL` `Gemini API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📊 Customer Churn Prediction
 
-Machine learning project focused on analyzing customer behavior and predicting potential churn.
+Machine learning project focused on customer behavior analysis and churn prediction.
 
-**Tech:** Python • Pandas • Scikit-learn • Machine Learning
+**Stack**
 
----
+`Python` `Pandas`  
+`Scikit-learn` `ML`
+
+</td>
+
+<td width="50%">
 
 ### 💳 Bank Transaction Analysis
 
-Data analysis project focused on understanding transaction patterns and extracting useful insights.
+Data analysis project focused on discovering transaction patterns and generating meaningful insights.
 
-**Tech:** Python • Pandas • Data Analysis • Visualization
+**Stack**
+
+`Python` `Pandas`  
+`SQL` `Visualization`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Data & Analytics
+## 📊 DATA ANALYTICS
 
-I enjoy working with data to answer questions and discover patterns.
+<div align="center">
+
+### From Data → Insight → Decision
 
 ```text
-Data → Clean → Analyze → Visualize → Insight → Decision
+┌──────────┐
+│   DATA   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  CLEAN   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ ANALYZE  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│VISUALIZE │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ INSIGHT  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ DECISION │
+└──────────┘
+```
+
+</div>
+
+<details>
+<summary><b>📈 Areas I'm Exploring</b></summary>
+
+<br>
+
+- Exploratory Data Analysis
+- SQL Analytics
+- Business Intelligence
+- Power BI
+- Excel Analytics
+- Tableau
+- Data Visualization
+- Statistical Thinking
+- Machine Learning
+- Data Cleaning
+- ETL / ELT concepts
+
+</details>
+
+---
+
+## ⚙️ DATA ENGINEERING
+
+I'm building my understanding of how data moves through real systems.
+
+```text
+Source
+  │
+  ▼
+Extract
+  │
+  ▼
+Transform
+  │
+  ▼
+Load
+  │
+  ▼
+Database
+  │
+  ▼
+Analytics
+  │
+  ▼
+Business Insight
+```
+
+### Currently exploring
+
+`SQL` `PostgreSQL` `Python` `ETL` `APIs` `Azure` `Data Pipelines` `Database Design`
+
+---
+
+## 🧪 SOFTWARE TESTING & QA
+
+I don't just want software to **work**.
+
+I want to understand **how it can fail**.
+
+<table>
+<tr>
+<td>
+
+🔍 Functional Testing
+
+</td>
+<td>
+
+🧪 Test Case Design
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🐞 Bug Detection
+
+</td>
+<td>
+
+🔌 API Testing
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🔐 Authentication Testing
+
+</td>
+<td>
+
+🔄 Regression Testing
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+📋 Debugging
+
+</td>
+<td>
+
+🚀 Quality Assurance
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔐 CYBERSECURITY EXPLORATION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Learning+how+systems+can+be+protected.;Understanding+web+security.;Exploring+ethical+hacking.;Security+starts+with+understanding." />
+
+</div>
+
+<details>
+<summary><b>🔎 Areas of Interest</b></summary>
+
+<br>
+
+- 🌐 Networking fundamentals
+- 🔐 Authentication & authorization
+- 🛡️ Web security concepts
+- 🔎 Vulnerability awareness
+- 🧪 Security testing
+- 🐧 Linux fundamentals
+- 🕵️ Ethical hacking concepts
+- 🔒 Secure application development
+
+**Focus:** Learning and practicing cybersecurity responsibly.
+
+</details>
+
+---
+
+## 🎯 CURRENT MISSION
+
+<table>
+<tr>
+<td align="center">💻<br><b>Full Stack</b></td>
+<td align="center">📊<br><b>Data Analytics</b></td>
+<td align="center">⚙️<br><b>Data Engineering</b></td>
+<td align="center">🧪<br><b>Testing</b></td>
+<td align="center">🔐<br><b>Security</b></td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**Learning → Building → Testing → Debugging → Improving**
+
+</div>
+
+---
+
+## 📈 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Siva427-art&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva427-art&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="42%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Siva427-art&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 🧩 MY DEVELOPMENT MINDSET
+
+<table>
+<tr>
+<td align="center">
+
+### 🧠 THINK
+
+Understand the problem before writing the solution.
+
+</td>
+
+<td align="center">
+
+### 🛠️ BUILD
+
+Turn ideas into working systems.
+
+</td>
+
+<td align="center">
+
+### 🧪 TEST
+
+Find what breaks before users do.
+
+</td>
+
+<td align="center">
+
+### 📊 ANALYZE
+
+Use data to understand what is happening.
+
+</td>
+
+<td align="center">
+
+### 🔐 SECURE
+
+Build with security in mind.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 A LITTLE ABOUT MY JOURNEY
+
+<details>
+<summary><b>✨ What drives me?</b></summary>
+
+<br>
+
+I'm interested in technology from multiple angles.
+
+I like **building applications**, but I also enjoy understanding the **data behind those applications**, how systems can be **tested**, how data can be **engineered**, and how applications can be **secured**.
+
+My goal is not to learn technologies just for the sake of listing them.
+
+> **I want to understand how things work — and build things that actually work.**
+
+</details>
+
+---
+
+## 🌐 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Siva427-art">
+<img src="https://img.shields.io/badge/GitHub-Siva427--art-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sivakeerthi@esec.ac.in">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- Replace the URL below with your LinkedIn profile -->
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ BUILD • ANALYZE • ENGINEER • TEST • SECURE ⚡
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:111827,100:0F172A"/>
+
+</div>
