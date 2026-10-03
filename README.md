@@ -9,9 +9,11 @@
 <a href="https://github.com/Siva427-art">
 <img src="https://img.shields.io/badge/@Siva427--art-0B1120?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
+
 <a href="https://www.linkedin.com/in/siva-keerthi-p-7ba6722a3/">
 <img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
+
 <a href="mailto:sivakeerthi@esec.ac.in">
 <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=F87171"/>
 </a>
@@ -19,6 +21,8 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Siva427-art&style=for-the-badge&color=06B6D4&label=PROFILE+VISITS"/>
+
+<img src="https://img.shields.io/badge/GOAL-1K%2B-7C3AED?style=for-the-badge&labelColor=111827"/>
 
 </div>
 
@@ -74,7 +78,7 @@ Azure
 API  
 Debugging  
 QA  
-Test Cases
+Testing
 
 </td>
 
@@ -122,7 +126,7 @@ Ethical Hacking
 
 <br><br>
 
-`SQL` &nbsp;•&nbsp; `Power BI` &nbsp;•&nbsp; `Excel` &nbsp;•&nbsp; `Tableau` &nbsp;•&nbsp; `R` &nbsp;•&nbsp; `Postman` &nbsp;•&nbsp; `Swagger`
+`SQL` • `Power BI` • `Excel` • `Tableau` • `R` • `Postman` • `Swagger`
 
 </div>
 
@@ -132,88 +136,11 @@ Ethical Hacking
 
 ## `04` — DATA ENGINEERING
 
-### `RAW DATA` &nbsp;→&nbsp; `PIPELINE` &nbsp;→&nbsp; `INSIGHT`
+### 📥 SOURCE → ⚡ EXTRACT → ⚙️ TRANSFORM → 🗄️ STORE → 📊 ANALYZE → 🎯 INSIGHT
 
 <br>
 
-<table>
-<tr>
-<td align="center">
-
-📥  
-**SOURCE**
-
-APIs  
-Files  
-DB
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-⚡  
-**EXTRACT**
-
-Collect  
-Validate
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-⚙️  
-**TRANSFORM**
-
-Clean  
-Process
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-🗄️  
-**STORE**
-
-PostgreSQL  
-Data
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-📊  
-**ANALYZE**
-
-SQL  
-BI
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-🎯  
-**INSIGHT**
-
-Decision  
-Value
-
-</td>
-</tr>
-</table>
-
-<br>
-
-`Python` `SQL` `PostgreSQL` `ETL` `REST APIs` `Azure`
+`Python` • `SQL` • `PostgreSQL` • `ETL` • `REST APIs` • `Azure`
 
 </div>
 
@@ -249,7 +176,7 @@ Value
 `React` `Django`  
 `PostgreSQL` `Gemini API`
 
-> Career guidance ecosystem powered by AI and structured data.
+> AI-powered career guidance ecosystem.
 
 </td>
 </tr>
@@ -262,7 +189,7 @@ Value
 **Prediction & Analysis**
 
 `Python` `Pandas`  
-`Scikit-learn` `ML`
+`Scikit-learn`
 
 > Customer behavior analysis and churn prediction.
 
@@ -277,7 +204,7 @@ Value
 `Python` `SQL`  
 `Pandas` `Visualization`
 
-> Discovering patterns and extracting useful insights from transaction data.
+> Discovering patterns and extracting useful insights.
 
 </td>
 </tr>
@@ -289,19 +216,11 @@ Value
 
 ## `06` — QA / TESTING
 
-### 🧪 `BUILD` → `BREAK` → `FIND` → `FIX`
+### 🧪 BUILD → BREAK → FIND → FIX
 
 <br>
 
-`Functional Testing`  
-↓  
-`API Testing`  
-↓  
-`Authentication Testing`  
-↓  
-`Debugging`  
-↓  
-`Regression Testing`
+`Functional Testing` • `API Testing` • `Authentication Testing` • `Debugging` • `Regression Testing`
 
 </div>
 
@@ -327,19 +246,17 @@ Value
 
 <div align="center">
 
-## `08` — CURRENTLY BUILDING
+## `08` — CURRENT MISSION
 
-<br>
-
-**FULL STACK**  
-↓  
-**DATA ANALYTICS**  
-↓  
-**DATA ENGINEERING**  
-↓  
-**SOFTWARE TESTING**  
-↓  
-**CYBERSECURITY**
+### 💻 FULL STACK
+### ↓
+### 📊 DATA ANALYTICS
+### ↓
+### ⚙️ DATA ENGINEERING
+### ↓
+### 🧪 SOFTWARE TESTING
+### ↓
+### 🔐 CYBERSECURITY
 
 </div>
 
@@ -368,11 +285,11 @@ Value
 ```text
 ╔════════════════════════════════════════════╗
 ║                                            ║
-║   DEVELOPER        ████████████████  ACTIVE ║
-║   DATA ANALYST     ███████████████░  ACTIVE ║
-║   DATA ENGINEER    ████████████░░░░  BUILD  ║
-║   QA / TESTING     ███████████░░░░░  LEARN  ║
-║   CYBERSECURITY    ████████░░░░░░░░  EXPLORE║
+║   DEVELOPER        ████████████████ ACTIVE ║
+║   DATA ANALYST     ████████████████ ACTIVE ║
+║   DATA ENGINEER    ████████████░░░  BUILD  ║
+║   QA / TESTING     ███████████░░░░  LEARN  ║
+║   CYBERSECURITY    ████████░░░░░░░  EXPLORE║
 ║                                            ║
 ╚════════════════════════════════════════════╝
 ```
@@ -399,7 +316,7 @@ Value
 
 <br><br>
 
-### `BUILD • ANALYZE • ENGINEER • TEST • SECURE`
+### ⚡ BUILD • ANALYZE • ENGINEER • TEST • SECURE ⚡
 
 <br>
 
