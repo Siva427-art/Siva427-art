@@ -1,145 +1,408 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:111827,100:0F172A&text=SIVA%20KEERTHI&fontColor=38BDF8&fontSize=48&fontAlignY=38&desc=Developer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20QA%20%E2%80%A2%20Cybersecurity&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:0B1120,100:111827&text=SIVA%20KEERTHI&fontColor=67E8F9&fontSize=52&fontAlignY=38&desc=CODE%20%E2%80%A2%20DATA%20%E2%80%A2%20ENGINEERING%20%E2%80%A2%20TESTING%20%E2%80%A2%20SECURITY&descColor=CBD5E1&descAlignY=61&descSize=14" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Build+%E2%80%A2+Analyze+%E2%80%A2+Engineer+%E2%80%A2+Test+%E2%80%A2+Secure;Turning+ideas+into+working+systems.;Learning+something+new+every+day." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2300&pause=700&color=67E8F9&center=true&vCenter=true&width=850&lines=%3C+Developer+%2F%3E;%5B+Data+Analyst+%5D;%7B+Data+Engineer+%7D;%3C%2F+QA+%2B+Testing+%3E;%5B%5B+Cybersecurity+Explorer+%5D%5D;Build+%E2%86%92+Analyze+%E2%86%92+Test+%E2%86%92+Secure" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Siva427-art&style=for-the-badge&color=38BDF8&label=PROFILE+VISITS"/>
+<a href="https://github.com/Siva427-art">
+<img src="https://img.shields.io/badge/@Siva427--art-0B1120?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+</a>
+<a href="https://www.linkedin.com/in/siva-keerthi-p-7ba6722a3/">
+<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
+<a href="mailto:sivakeerthi@esec.ac.in">
+<img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=F87171"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Siva427-art&style=for-the-badge&color=06B6D4&label=PROFILE+VISITS"/>
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Siva
-
 <div align="center">
 
-### 💻 Developer &nbsp;•&nbsp; 📊 Data Analyst &nbsp;•&nbsp; ⚙️ Data Engineer
+## `01` — IDENTITY
 
-### 🧪 QA & Testing &nbsp;•&nbsp; 🔐 Cybersecurity Enthusiast
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 💻
+**DEVELOPER**
+
+React  
+.NET  
+Python  
+Java
+
+</td>
+
+<td align="center" width="20%">
+
+### 📊
+**DATA**
+
+SQL  
+Power BI  
+Excel  
+Tableau
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️
+**ENGINEER**
+
+PostgreSQL  
+APIs  
+ETL  
+Azure
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧪
+**TESTER**
+
+API  
+Debugging  
+QA  
+Test Cases
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔐
+**SECURITY**
+
+Linux  
+Web Security  
+Networking  
+Ethical Hacking
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+
+## `02` — ABOUT
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A5F3FC&center=true&vCenter=true&width=850&lines=I+build+systems.;I+work+with+data.;I+test+what+I+build.;I+explore+how+systems+can+be+secured." />
+
+<br>
+
+**Technology enthusiast focused on building, analyzing, testing and improving real-world systems.**
+
+<br>
+
+`Think` → `Build` → `Break` → `Debug` → `Improve`
+
+</div>
+
+---
 
 <div align="center">
+
+## `03` — TECH MATRIX
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,dotnet,nodejs,postgresql,mysql,git,github,docker,azure" />
 
 <br><br>
 
-`Power BI` &nbsp; `Excel` &nbsp; `Tableau` &nbsp; `R` &nbsp; `SQL` &nbsp; `Postman` &nbsp; `Swagger`
+`SQL` &nbsp;•&nbsp; `Power BI` &nbsp;•&nbsp; `Excel` &nbsp;•&nbsp; `Tableau` &nbsp;•&nbsp; `R` &nbsp;•&nbsp; `Postman` &nbsp;•&nbsp; `Swagger`
 
 </div>
 
 ---
 
-## ⚡ What I Do
-
 <div align="center">
 
-| 💻 Development | 📊 Data | 🧪 Testing | 🔐 Security |
-|:---:|:---:|:---:|:---:|
-| React • .NET | SQL • Power BI | API • QA | Web • Linux |
-| Python • Java | Excel • Tableau | Debugging | Ethical Hacking |
+## `04` — DATA ENGINEERING
 
-</div>
-
----
-
-## ⚙️ Data Engineering
-
-<div align="center">
-
-### 📥 Source → ⚡ Extract → ⚙️ Transform → 🗄️ Store → 📊 Analyze → 🎯 Insight
+### `RAW DATA` &nbsp;→&nbsp; `PIPELINE` &nbsp;→&nbsp; `INSIGHT`
 
 <br>
 
-`Python` • `SQL` • `PostgreSQL` • `ETL` • `APIs` • `Azure`
+<table>
+<tr>
+<td align="center">
+
+📥  
+**SOURCE**
+
+APIs  
+Files  
+DB
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+⚡  
+**EXTRACT**
+
+Collect  
+Validate
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+⚙️  
+**TRANSFORM**
+
+Clean  
+Process
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+🗄️  
+**STORE**
+
+PostgreSQL  
+Data
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+📊  
+**ANALYZE**
+
+SQL  
+BI
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+🎯  
+**INSIGHT**
+
+Decision  
+Value
+
+</td>
+</tr>
+</table>
+
+<br>
+
+`Python` `SQL` `PostgreSQL` `ETL` `REST APIs` `Azure`
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+## `05` — BUILD LAB
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ TASKTIME
+
+**Smart Task Management**
+
+`React` `ASP.NET Core`  
+`EF Core` `PostgreSQL` `JWT`
+
+> Full-stack task management with authentication, roles, task tracking and reminders.
+
+</td>
+
+<td width="50%">
+
+### 🧠 AI CAREER GUIDANCE
+
+**AI-Powered Platform**
+
+`React` `Django`  
+`PostgreSQL` `Gemini API`
+
+> Career guidance ecosystem powered by AI and structured data.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📈 CUSTOMER CHURN
+
+**Prediction & Analysis**
+
+`Python` `Pandas`  
+`Scikit-learn` `ML`
+
+> Customer behavior analysis and churn prediction.
+
+</td>
+
+<td width="50%">
+
+### 💳 TRANSACTION ANALYSIS
+
+**Data Intelligence**
+
+`Python` `SQL`  
+`Pandas` `Visualization`
+
+> Discovering patterns and extracting useful insights from transaction data.
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-| 🚀 Project | 🔧 Stack |
-|:---|:---|
-| **TaskTime** — Smart Task Management | React • .NET • PostgreSQL • JWT |
-| **AI Career Guidance** | React • Django • PostgreSQL • Gemini |
-| **Customer Churn Prediction** | Python • ML • Scikit-learn |
-| **Bank Transaction Analysis** | Python • SQL • Data Analysis |
+## `06` — QA / TESTING
+
+### 🧪 `BUILD` → `BREAK` → `FIND` → `FIX`
+
+<br>
+
+`Functional Testing`  
+↓  
+`API Testing`  
+↓  
+`Authentication Testing`  
+↓  
+`Debugging`  
+↓  
+`Regression Testing`
 
 </div>
 
 ---
 
-## 🎯 Currently Exploring
-
 <div align="center">
 
-`Full Stack` → `Data Engineering` → `Data Analytics` → `Testing` → `Cybersecurity`
+## `07` — SECURITY LAB
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=800&color=4ADE80&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+%3E+SECURITY+%5D;%5B+NETWORK+%3E+WEB+%3E+AUTH+%5D;%5B+LEARN+%3E+TEST+%3E+PROTECT+%5D" />
+
+<br>
+
+`Linux` • `Networking` • `Web Security` • `Authentication` • `Security Testing`
+
+<br>
+
+<sub>Exploring cybersecurity and ethical hacking responsibly.</sub>
 
 </div>
 
 ---
 
-## 🧠 My Workflow
-
 <div align="center">
 
-**THINK** 🧠 → **BUILD** 💻 → **TEST** 🧪 → **ANALYZE** 📊 → **SECURE** 🔐 → **IMPROVE** 🚀
+## `08` — CURRENTLY BUILDING
+
+<br>
+
+**FULL STACK**  
+↓  
+**DATA ANALYTICS**  
+↓  
+**DATA ENGINEERING**  
+↓  
+**SOFTWARE TESTING**  
+↓  
+**CYBERSECURITY**
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siva427-art&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+## `09` — GITHUB ENGINE
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva427-art&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Siva427-art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva427-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1" width="40%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Siva427-art&theme=tokyonight&hide_border=true" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=Siva427-art&theme=tokyonight&hide_border=true&background=0B1120&ring=67E8F9&fire=38BDF8&currStreakLabel=67E8F9" width="65%"/>
 
 </div>
 
 ---
 
-## 🔗 Connect
-
 <div align="center">
 
-<a href="https://github.com/Siva427-art">
-<img src="https://img.shields.io/badge/GitHub-Siva427--art-181717?style=for-the-badge&logo=github"/>
-</a>
+## `10` — SYSTEM STATUS
 
-<a href="mailto:sivakeerthi@esec.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/siva-keerthi-p-7ba6722a3/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+```text
+╔════════════════════════════════════════════╗
+║                                            ║
+║   DEVELOPER        ████████████████  ACTIVE ║
+║   DATA ANALYST     ███████████████░  ACTIVE ║
+║   DATA ENGINEER    ████████████░░░░  BUILD  ║
+║   QA / TESTING     ███████████░░░░░  LEARN  ║
+║   CYBERSECURITY    ████████░░░░░░░░  EXPLORE║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### ⚡ BUILD • ANALYZE • ENGINEER • TEST • SECURE ⚡
+## `11` — CONNECT
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:111827,100:0F172A"/>
+<a href="https://github.com/Siva427-art">
+<img src="https://img.shields.io/badge/GITHUB-Explore_My_Work-0B1120?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/siva-keerthi-p-7ba6722a3/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect_With_Me-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
+
+<a href="mailto:sivakeerthi@esec.ac.in">
+<img src="https://img.shields.io/badge/EMAIL-Let's_Talk-0B1120?style=for-the-badge&logo=gmail&logoColor=F87171"/>
+</a>
+
+<br><br>
+
+### `BUILD • ANALYZE • ENGINEER • TEST • SECURE`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050816,50:0B1120,100:111827" width="100%"/>
 
 </div>
